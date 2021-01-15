@@ -8,3 +8,6 @@ Tools used:
 <li>npm</li>
 <li>express</li>
 <li>POST,GET,DELETE</li>
+<h1> IT looks like this: </h1>
+
+![Note Taker - Google Chrome 2021-01-14 23-55-15](https://user-images.githubusercontent.com/71658001/104697893-4ae50080-56c5-11eb-8ef5-90ceb11dfff7.gif)
